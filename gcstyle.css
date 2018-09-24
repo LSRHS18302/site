@@ -1,0 +1,16 @@
+body{
+  background-color: yellow;
+}
+body{
+  font-family: 'Josefin Sans', sans-serif;
+}
+h1,h2{
+  font-family: 'Ruslan Display', cursive;
+}
+html{
+  border-style: solid;
+  border-color: black;
+}
+h1{
+  text-align: center;
+}
