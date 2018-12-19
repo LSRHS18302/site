@@ -1,0 +1,23 @@
+body{
+  background-color: tan;
+  font-family: 'Bungee', cursive;
+}
+.vpadding{
+  padding-bottom: 30px;
+}
+p{
+  padding-top: 10px;
+}
+.title{
+  text-align: center;
+}
+.h1padding{
+  padding-left: 40px;
+}
+.upadding{
+  padding-top: 30px;
+}
+.hpadding{
+  padding-left: 30px;
+  padding-top: 20px;
+}
